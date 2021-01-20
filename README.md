@@ -1,8 +1,10 @@
+<img src="./assets/Logo_Kare_1.png" width="50">
+
 # Frontend Challenge
 
 # Dashboard
 
-<img src="./assets/dashboard.png">
+<img src="./assets/dashboard.PNG">
 
 - Components should be re-usable and well documented
 
@@ -16,7 +18,7 @@
 
 # Editor
 
-<img src="./assets/editor.png">
+<img src="./assets/editor.PNG">
 
 - The component should be re-usable and well documented
 
